@@ -1,0 +1,10 @@
+vllm
+transformers
+datasets
+accelerate
+matplotlib
+pandas
+ipykernel
+jupyterlab
+tqdm
+ipywidgets
